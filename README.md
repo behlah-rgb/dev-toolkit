@@ -1,3 +1,5 @@
-#Dev Toolkit
+##Dev Toolkit
 
 Learning Python and Git through small utility projects
+
+#Basic CLI Calculator
