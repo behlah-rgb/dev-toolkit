@@ -15,3 +15,8 @@ Learning Python and Git through small utility projects
     Add Tasks
     Delete Tasks
     Terminate
+
+#Basic CLI Text Statistics Tool
+    Num of Words
+    Num of Characters (Non White-Space)
+    Num of Unique Words
